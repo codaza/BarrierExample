@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarrierExample", "BarrierExample\BarrierExample.csproj", "{BD2C60B5-6D68-49B7-8171-5ACA68A56E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD2C60B5-6D68-49B7-8171-5ACA68A56E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD2C60B5-6D68-49B7-8171-5ACA68A56E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD2C60B5-6D68-49B7-8171-5ACA68A56E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD2C60B5-6D68-49B7-8171-5ACA68A56E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CA9C7B1-DEE6-43B2-8E6A-941C2469FC2A}
+	EndGlobalSection
+EndGlobal
